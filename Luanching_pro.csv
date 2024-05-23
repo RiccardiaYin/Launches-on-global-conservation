@@ -1,0 +1,10 @@
+ID,Costal,Word,Number,Percentage,Percentage2
+1,Costal,World_Heritage,4,0.037383178,0.054054054
+2,Costal,Protected_Land,49,0.457943925,0.662162162
+3,Costal,Non_protected,21,0.196261682,0.283783784
+4,Inland,World_Heritage,0,0,0
+5,Inland,Protected_Land,14,0.130841121,0.424242424
+6,Inland,Non_protected,19,0.177570093,0.575757576
+7,Total,World_Heritage,4,0.037383178,0.037383178
+8,Total,Protected_Land,63,0.588785047,0.588785047
+6,Total,Non_protected,40,0.373831776,0.373831776

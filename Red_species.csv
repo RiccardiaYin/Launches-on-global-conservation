@@ -1,0 +1,108 @@
+﻿ID,Data_base_Source,Continent,Country,Y,X,Eco_Name,BIOME_NAME,Biome,NNH_NAME,Coastal,Operating,Count,Combined,Mammals,Reptiles,Birds,Amphibians
+66,Wikipedia,Europe,Russia,62.92556,40.57778,Scandinavian and Russian taiga,Boreal Forests/Taiga,BFT,Nature Could Recover,Inner,Operating,1,2,0,0,3,0
+70,Wikipedia,Europe,Sweden,67.89342,21.10429,Scandinavian and Russian taiga,Boreal Forests/Taiga,BFT,Nature Could Recover,Inner,Operating,1,1,0,0,2,0
+96,Wikipedia,North America,United States,57.43533,-152.33931,Alaska Peninsula montane taiga,Boreal Forests/Taiga,BFT,Half Protected,Coastal,Operating,1,3,2,2,3,0
+145,Gunters_Space_Page,North America,Canada,54.763278,-110.592778,Mid-Canada Boreal Plains forests,Boreal Forests/Taiga,BFT,Nature Could Reach Half Protected,Inner,Operating,1,2,1,0,2,0
+164,Gunters_Space_Page,Europe,Iceland,66.252118,-15.274985,Iceland boreal birch forests and alpine tundra,Boreal Forests/Taiga,BFT,Nature Could Reach Half Protected,Coastal,Operating,1,1,0,0,2,0
+10,Wikipedia,Asia,China,40.96056,100.29833,Alashan Plateau semi-desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,1,1,0,2,0
+20,Wikipedia,Asia,Iran,35.234631,53.920941,Central Persian desert basins,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,3,3,1,3,1
+30,Wikipedia,Asia,Kazakhstan,45.95515,63.35028,Central Asian northern desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,2,0,3,0
+31,Wikipedia,Asia,Kazakhstan,46.38,72.87,Central Asian northern desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,3,2,0,4,0
+37,Wikipedia,Asia,Pakistan,25.19242,66.74881,Aravalli west thorn scrub forests,Deserts & Xeric Shrublands,DXS,Nature Imperiled,Coastal,Operating,1,4,1,5,6,0
+88,Wikipedia,North America,United States,32.5646,-106.35908,Chihuahuan desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,1,1,2,1
+98,Wikipedia,North America,United States,35.0591,-118.1488,Mojave desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,0,2,4,2
+99,Wikipedia,North America,United States,32.88943,-106.99945,Chihuahuan desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,1,1,2,1
+100,Wikipedia,North America,United States,31.2524,-104.4532,Chihuahuan desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,1,1,2,0
+120,Wikipedia,Oceania,Australia,-30.95875,136.50366,Tirari-Sturt stony desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,1,1,0,5,0
+143,Gunters_Space_Page,North America,Barbados,13.077222,-59.475639,Caribbean shrublands,Deserts & Xeric Shrublands,DXS,Nature Could Recover,Coastal,Operating,1,5,1,5,2,4
+179,Gunters_Space_Page,Asia,Mongolia,44.88996486,110.1401932,Eastern Gobi desert steppe,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,2,0,2,0
+199,Gunters_Space_Page,North America,USA,32.40910495,-105.9939059,Chihuahuan desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,1,1,2,1
+200,Gunters_Space_Page,North America,USA,63.93403441,-145.7368068,Chihuahuan desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,1,1,0,2,0
+209,Gunters_Space_Page,North America,USA,36.67418065,-115.9683005,Mojave desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,0,1,2,2
+221,Gunters_Space_Page,Europe,USSR / Russia,45.9640297,63.30565149,Central Asian northern desert,Deserts & Xeric Shrublands,DXS,Nature Could Reach Half Protected,Inner,Operating,1,2,2,0,3,0
+17,Wikipedia,Asia,India,13.7374,80.2351,Godavari-Krishna mangroves,Mangroves,M,Nature Imperiled,Coastal,Operating,1,4,4,5,5,0
+18,Wikipedia,Asia,India,20.75524885,87.08839529,Godavari-Krishna mangroves,Mangroves,M,Nature Imperiled,Coastal,Operating,1,5,4,5,5,0
+93,Wikipedia,North America,United States,28.6082,-80.604,Bahamian-Antillean mangroves,Mangroves,M,Nature Could Reach Half Protected,Coastal,Operating,1,3,1,5,2,1
+115,Wikipedia,South America,Brazil,-2.316,-44.3676,Amazon-Orinoco-Southern Caribbean mangroves,Mangroves,M,Half Protected,Coastal,Operating,1,4,4,5,4,0
+116,Wikipedia,South America,French Guiana,5.23739,-52.7695,Amazon-Orinoco-Southern Caribbean mangroves,Mangroves,M,Half Protected,Coastal,Operating,1,2,3,5,1,1
+8,Wikipedia,Africa,South Africa,-34.60265,20.30248,Fynbos shrubland,"Mediterranean Forests, Woodlands & Scrub",MFWS,Nature Could Recover,Coastal,Operating,1,4,3,5,5,1
+22,Wikipedia,Asia,Israel,31.88484,34.6802,Eastern Mediterranean conifer-broadleaf forests,"Mediterranean Forests, Woodlands & Scrub",MFWS,Nature Imperiled,Coastal,Operating,1,3,2,5,2,0
+56,Wikipedia,Europe,Italy,39.52731,9.63303,Tyrrhenian-Adriatic sclerophyllous and mixed forests,"Mediterranean Forests, Woodlands & Scrub",MFWS,Nature Could Recover,Coastal,Operating,1,3,2,4,3,0
+67,Wikipedia,Europe,Spain,37.10272941,-6.736304766,Southwest Iberian Mediterranean sclerophyllous and mixed forests,"Mediterranean Forests, Woodlands & Scrub",MFWS,Nature Could Recover,Coastal,Operating,1,4,3,5,3,2
+92,Wikipedia,North America,United States,34.77204,-120.60124,California interior chaparral and woodlands,"Mediterranean Forests, Woodlands & Scrub",MFWS,Nature Could Recover,Coastal,Operating,1,4,0,3,4,2
+123,Wikipedia,Oceania,Australia,-31.885558,133.448686,Eyre and York mallee,"Mediterranean Forests, Woodlands & Scrub",MFWS,Nature Could Recover,Coastal,Operating,1,3,1,1,6,0
+124,Wikipedia,Oceania,Australia,-34.934,135.6523,Eyre and York mallee,"Mediterranean Forests, Woodlands & Scrub",MFWS,Nature Could Recover,Coastal,Operating,1,4,1,3,6,0
+184,Gunters_Space_Page,Europe,Spain,27.93143975,-15.38617595,Canary Islands dry woodlands and forests,"Mediterranean Forests, Woodlands & Scrub",MFWS,Half Protected,Coastal,Operating,1,4,1,5,4,0
+214,Gunters_Space_Page,North America,USA,34.09939912,-119.1217028,California coastal sage and chaparral,"Mediterranean Forests, Woodlands & Scrub",MFWS,Nature Imperiled,Coastal,Operating,1,4,0,3,4,2
+15,Wikipedia,Asia,China,36.77556639,121.1585,Huang He Plain mixed forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Imperiled,Coastal,Operating,1,4,1,5,3,0
+25,Wikipedia,Asia,Japan,42.5058677,143.4565791,Hokkaido deciduous forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Reach Half Protected,Coastal,Operating,1,2,1,3,4,0
+29,Wikipedia,Asia,Japan,40.71064951,141.3600445,Taiheiyo montane deciduous forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Reach Half Protected,Coastal,Operating,1,3,1,3,4,0
+32,Wikipedia,Asia,North Korea,40.84022889,129.4954864,Manchurian mixed forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Recover,Coastal,Operating,1,3,2,3,3,0
+33,Wikipedia,Asia,North Korea,39.66,124.705,Manchurian mixed forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Recover,Coastal,Operating,1,2,2,4,2,0
+34,Wikipedia,Asia,South Korea,36.70602038,126.4871898,Central Korean deciduous forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Imperiled,Coastal,Operating,1,2,2,3,1,0
+35,Wikipedia,Asia,South Korea,34.44200436,127.5341536,Southern Korea evergreen forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Imperiled,Coastal,Operating,1,2,2,3,1,0
+71,Wikipedia,Europe,United Kingdom,57.33,-7.33,North Atlantic moist mixed forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Recover,Coastal,Operating,1,2,0,2,2,0
+76,Wikipedia,Europe,Denmark,55.049167,15.603056,Baltic mixed forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Recover,Coastal,Operating,1,1,0,0,2,0
+103,Wikipedia,North America,United States,44.4444,-67.6,New England-Acadian forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Imperiled,Coastal,Operating,1,3,2,4,3,0
+129,Wikipedia,Oceania,New Zealand,-39.26044,177.86431,New Zealand North Island temperate forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Recover,Coastal,Operating,1,4,1,4,3,0
+168,Gunters_Space_Page,Asia,Japan,33.48012079,131.7362607,Taiheiyo evergreen forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Reach Half Protected,Coastal,Operating,1,4,1,3,5,3
+169,Gunters_Space_Page,Asia,Japan,42.50598212,143.4566943,Hokkaido deciduous forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Reach Half Protected,Coastal,Operating,1,2,1,3,4,0
+187,Gunters_Space_Page,Europe,Turkey,42.03144418,35.18994645,Euxine-Colchic broadleaf forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Recover,Coastal,Operating,1,2,2,0,1,3
+191,Gunters_Space_Page,Europe,UK,60.81741479,-0.762731271,North Atlantic moist mixed forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Recover,Coastal,Operating,1,NA,NA,NA,NA,NA
+226,Gunters_Space_Page,Europe,USSR / Russia,51.87142659,128.3542666,Manchurian mixed forests,Temperate Broadleaf & Mixed Forests,TBMF,Nature Could Recover,Inner,Operating,1,2,1,0,4,0
+12,Wikipedia,Asia,China,28.24646,102.02814,Hengduan Mountains subalpine conifer forests,Temperate Conifer Forests,TCF,Nature Could Recover,Inner,Operating,1,4,5,1,2,3
+38,Wikipedia,Asia,Pakistan,33.3961,73.29608,Western Himalayan subalpine conifer forests,Temperate Conifer Forests,TCF,Nature Imperiled,Inner,Operating,1,4,1,5,5,0
+57,Wikipedia,Europe,Norway,69.2943,16.0207,Scandinavian coastal conifer forests,Temperate Conifer Forests,TCF,Nature Could Recover,Coastal,Operating,1,2,1,0,3,0
+151,Gunters_Space_Page,Asia,China,38.749444,105.588611,Helanshan montane conifer forests,Temperate Conifer Forests,TCF,Nature Could Recover,Inner,Operating,1,1,1,0,1,0
+152,Gunters_Space_Page,Asia,China,19.530278,109.12375,Helanshan montane conifer forests,Temperate Conifer Forests,TCF,Nature Could Recover,Inner,Operating,1,5,4,5,6,3
+202,Gunters_Space_Page,North America,USA,35.44914764,-108.5988453,Arizona Mountains forests,Temperate Conifer Forests,TCF,Nature Imperiled,Inner,Operating,1,2,1,0,2,1
+11,Wikipedia,Asia,China,38.8490861,111.6084972,Mongolian-Manchurian grassland,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Could Recover,Inner,Operating,1,1,1,1,1,0
+43,Wikipedia,Asia,Russia,51.20706,59.85003,Kazakh forest steppe,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Inner,Operating,1,2,1,0,4,0
+64,Wikipedia,Europe,Russia,48.57807,46.2542,Pontic steppe,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Inner,Operating,1,2,2,0,3,0
+87,Wikipedia,North America,United States,37.84621,-75.47938,Mid-Atlantic US coastal savannas,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Coastal,Operating,1,3,2,5,3,0
+91,Wikipedia,North America,United States,28.46675,-80.55852,Southeast US conifer savannas,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Coastal,Operating,1,3,1,5,2,1
+97,Wikipedia,North America,United States,37.833378,-75.483284,Mid-Atlantic US coastal savannas,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Coastal,Operating,1,3,2,5,3,0
+111,Wikipedia,South America,Argentina,-35.523889,-57.183889,Humid Pampas,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Coastal,Operating,1,4,1,4,4,0
+112,Wikipedia,South America,Argentina,-38.9628,-61.715,Humid Pampas,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Coastal,Operating,1,2,0,4,3,0
+127,Wikipedia,Oceania,New Zealand,-43.817,172.683,Canterbury-Otago tussock grasslands,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Could Recover,Coastal,Operating,1,4,1,5,3,0
+194,Gunters_Space_Page,North America,USA,29.67728746,-85.34582108,Southeast US conifer savannas,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Coastal,Operating,1,3,2,5,2,2
+198,Gunters_Space_Page,North America,USA,32.07306016,-106.1527388,Southeast US conifer savannas,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Coastal,Operating,1,2,1,1,2,1
+210,Gunters_Space_Page,North America,USA,31.38811997,-97.46896942,Cross-Timbers savanna-woodland,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Inner,Operating,1,2,1,1,3,1
+217,Gunters_Space_Page,North America,USA,43.74818275,-87.70323135,Central US forest-grasslands transition,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Coastal,Operating,1,2,2,1,1,0
+222,Gunters_Space_Page,Europe,USSR / Russia,51.09419225,59.84274653,Kazakh forest steppe,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Inner,Operating,1,2,2,0,4,0
+225,Gunters_Space_Page,Europe,USSR / Russia,48.30378779,46.19966753,Pontic steppe,"Temperate Grasslands, Savannas & Shrublands",TGSS,Nature Imperiled,Inner,Operating,1,2,2,0,3,0
+188,Gunters_Space_Page,North America,Turks and Caicos Islands,21.44482647,-71.14338212,Bahamian pineyards,Tropical & Subtropical Coniferous Forests,TSCF,Nature Could Recover,Coastal,Operating,1,5,2,5,4,4
+163,Gunters_Space_Page,Oceania,Guam,13.59681248,144.9023723,Marianas tropical dry forests,Tropical & Subtropical Dry Broadleaf Forests,TSDBF,Nature Could Reach Half Protected,Coastal,Operating,1,NA,NA,NA,NA,NA
+94,Wikipedia,North America,United States,22.02278,-159.785,Hawai'i tropical low shrublands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",TSGSS,Nature Imperiled,Coastal,Operating,1,1,1,5,5,0
+102,Wikipedia,North America,United States,25.996,-97.154,Western Gulf coastal grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",TSGSS,Nature Imperiled,Coastal,Operating,1,3,2,5,3,1
+105,Wikipedia,South America,Argentina,-30.12737,-66.34082,Dry Chaco,"Tropical & Subtropical Grasslands, Savannas & Shrublands",TSGSS,Nature Could Reach Half Protected,Inner,Operating,1,2,1,0,2,2
+125,Wikipedia,Oceania,Australia,-12.378021,136.821402,Arnhem Land tropical savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",TSGSS,Nature Could Reach Half Protected,Coastal,Operating,1,4,4,5,2,0
+141,Gunters_Space_Page,Oceania,Australia,-27.556056,151.797806,Brigalow tropical savanna,"Tropical & Subtropical Grasslands, Savannas & Shrublands",TSGSS,Nature Could Reach Half Protected,Inner,Operating,1,4,4,1,4,4
+190,Gunters_Space_Page,Europe,UK,-7.9762401,-14.41423769,Ascension scrub and grasslands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",TSGSS,Nature Imperiled,Coastal,Operating,1,NA,NA,NA,NA,NA
+207,Gunters_Space_Page,North America,USA,21.98176221,-159.7593393,Hawai'i tropical low shrublands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",TSGSS,Nature Imperiled,Coastal,Operating,1,1,1,5,5,0
+213,Gunters_Space_Page,North America,USA,21.31141694,-157.9249989,Hawai'i tropical low shrublands,"Tropical & Subtropical Grasslands, Savannas & Shrublands",TSGSS,Nature Imperiled,Coastal,Operating,1,1,1,5,5,0
+13,Wikipedia,Asia,China,19.6144917,110.95113,South China-Vietnam subtropical evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Imperiled,Coastal,Operating,1,5,4,5,6,3
+16,Wikipedia,Asia,India,8.542295528,76.86282646,Malabar Coast moist forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Imperiled,Coastal,Operating,1,5,5,5,6,4
+19,Wikipedia,Asia,Indonesia,-7.646643,107.689018,Western Java rain forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Could Recover,Coastal,Operating,1,5,5,5,6,1
+26,Wikipedia,Asia,Japan,30.39096,130.96813,Nansei Islands subtropical evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Could Reach Half Protected,Coastal,Operating,1,4,2,5,5,3
+44,Wikipedia,Asia,"Taiwan,China",22.17489726,120.8925643,South Taiwan monsoon rain forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Could Reach Half Protected,Coastal,Operating,1,5,2,5,5,3
+45,Wikipedia,Asia,"Taiwan,China",22.26203594,120.8901522,South Taiwan monsoon rain forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Could Reach Half Protected,Coastal,Operating,1,5,2,5,5,3
+113,Wikipedia,South America,Brazil,-5.922619325,-35.16155403,Atlantic Coast restingas,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Could Recover,Coastal,Operating,1,4,2,5,4,0
+126,Wikipedia,Oceania,Marshall Islands,9.048167,167.743083,Eastern Micronesia tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Imperiled,Coastal,Operating,1,NA,NA,NA,NA,NA
+176,Gunters_Space_Page,Oceania,Marshall Islands,9.006416766,167.7269199,Eastern Micronesia tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Imperiled,Coastal,Operating,1,NA,NA,NA,NA,NA
+177,Gunters_Space_Page,Oceania,Marshall Islands,9.40125304,167.4659126,Eastern Micronesia tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Imperiled,Coastal,Operating,1,NA,NA,NA,NA,NA
+182,Gunters_Space_Page,North America,Puerto Rico,18.49147811,-67.14565599,Puerto Rican moist forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Could Reach Half Protected,Coastal,Operating,1,5,2,5,4,4
+186,Gunters_Space_Page,Asia,Taiwan,22.67609916,120.4578462,Taiwan subtropical evergreen forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Could Reach Half Protected,Coastal,Operating,1,5,2,5,5,3
+220,Gunters_Space_Page,North America,USA,19.27551645,166.6498447,Eastern Micronesia tropical moist forests,Tropical & Subtropical Moist Broadleaf Forests,TSMBF,Nature Imperiled,Coastal,Operating,1,NA,NA,NA,NA,NA
+59,Wikipedia,Europe,Norway,78.2234,15.647,Russian Arctic desert,Tundra,T,Nature Could Reach Half Protected,Coastal,Operating,1,2,2,0,1,0
+90,Wikipedia,North America,United States,65.12599,-147.47894,Interior Yukon-Alaska alpine tundra,Tundra,T,Nature Could Reach Half Protected,Inner,Operating,1,1,1,0,2,0
+130,Gunters_Space_Page,Antarctica,Antarctica,-66.662889,140.003083,Adelie Land tundra,Tundra,T,Half Protected,Coastal,Operating,1,0,0,0,0,0
+132,Gunters_Space_Page,Antarctica,Antarctica,-64.774278,-64.053833,Northwest Antarctic Peninsula tundra,Tundra,T,Half Protected,Coastal,Operating,1,1,0,0,1,0
+134,Gunters_Space_Page,Antarctica,Antarctica,-67.568639,-68.124111,Northwest Antarctic Peninsula tundra,Tundra,T,Half Protected,Coastal,Operating,1,1,0,0,1,0
+136,Gunters_Space_Page,Antarctica,Antarctica,-69.004194,39.580194,Enderby Land tundra,Tundra,T,Half Protected,Coastal,Operating,1,0,0,0,0,0
+137,Gunters_Space_Page,Antarctica,Antarctica,-64.241111,-56.626667,Northeast Antarctic Peninsula tundra,Tundra,T,Half Protected,Coastal,Operating,1,1,0,0,1,0
+162,Gunters_Space_Page,North America,Greenland,67.010556,-50.709167,Kalaallit Nunaat Arctic steppe,Tundra,T,Nature Could Reach Half Protected,Coastal,Operating,1,2,2,0,2,0
+201,Gunters_Space_Page,North America,USA,64.79982228,-147.6333771,Alaska-St. Elias Range tundra,Tundra,T,Nature Could Reach Half Protected,Inner,Operating,1,1,1,0,2,0
+212,Gunters_Space_Page,North America,USA,71.28534275,-156.7771164,Arctic coastal tundra,Tundra,T,Nature Could Reach Half Protected,Coastal,Operating,1,1,1,0,1,0
+223,Gunters_Space_Page,Europe,USSR / Russia,80.44678701,58.05320843,Russian Arctic desert,Tundra,T,Nature Could Reach Half Protected,Coastal,Operating,1,1,1,0,1,0
+224,Gunters_Space_Page,Europe,USSR / Russia,71.59090992,128.9102585,Taimyr-Central Siberian tundra,Tundra,T,Nature Could Reach Half Protected,Coastal,Operating,1,2,1,0,2,0
